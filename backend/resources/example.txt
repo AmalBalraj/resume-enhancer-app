@@ -16,3 +16,51 @@ generate a happy sentence
 ---------------
 generate a happy sentence
 ---------------
+sampleq
+---------------
+sample
+---------------
+sample
+---------------
+sample
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+Hi how are you?
+---------------
+undefined
+---------------
+undefined
+---------------
+hello there
+---------------

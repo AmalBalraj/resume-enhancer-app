@@ -6,6 +6,9 @@ resume-enhancer-web/node_modules/
 backend/dist/
 resume-enhancer-web/build/
 
+#personal content
+backend/resources/
+
 # Logs
 *.log
 npm-debug.log*
